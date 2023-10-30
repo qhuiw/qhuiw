@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Qianhui
+
+I am a computer science undergraduate at the [Australian National University](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours).
+
+My personal repository is at [here](https://github.com/qian119-w).
 
 <!--
 **Qianhui-anu/Qianhui-anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
