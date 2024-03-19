@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Qianhui
+### Qianhui's GitHub Repo
 
 I am a computer science undergraduate at the [Australian National University](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours).
 
