@@ -1,6 +1,6 @@
 ### About Qianhui
 
-I graduated from the Australian National University with a [Bachelor]((https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours)) in Advanced Computing.<br>
+I graduated from the Australian National University with a [Bachelor](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours) in Advanced Computing.<br>
 I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University of Cambridge, studying systems, architecture and security.
 
 - 🔭 I’m currently working on *cryptographic protocols*, *secure software*.
@@ -13,28 +13,28 @@ I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University o
   
 
 ### Tech stack
-- Frontend
+- **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,ts&perline=14" />
   </a>
 </p>
 
-- Backend
+- **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,solidity,golang,rust,ruby&perline=14" />
   </a>
 </p>
 
-- Database
+- **Database**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,dynamodb,redis,nginx,mongodb,mysql&perline=14" />
   </a>
 </p>
 
-- DevOps
+- **DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,aws,docker,md,kubernetes&perline=14" />
