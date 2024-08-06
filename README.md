@@ -7,8 +7,8 @@ I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University o
 - 🌱 I’m currently learning *runtime security*.
 - 💬 I strive for the best in anything I do.
 - ⚡ Fun facts:
-  - I had been educated in **CN🇨🇳**, **SG🇸🇬**, **AU🇦🇺** and **UK🇬🇧**, in order; I might travel to more countries for knowledge in the future.☺️
-  - I know __CHIN *请多多关照*__, __JPNS *よろしくお願いします*__, and __KORN *잘 부탁드립니다*__.
+  - I went to school in **CN🇨🇳**, **SG🇸🇬**, **AU🇦🇺** and **UK🇬🇧**, in order; I might travel to more countries for education in the future.☺️
+  - I speak __CHIN *请多多关照*__ and __EN__, and some __JPNS *よろしくお願いします*__, and __KORN *잘 부탁드립니다*__.
   - I enjoy novels, tech books, dramas and jogging for entertainment.
   
 
