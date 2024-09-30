@@ -9,7 +9,7 @@ I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University o
 - ⚡ Fun facts:
   - I went to school in **CN🇨🇳**, **SG🇸🇬**, **AU🇦🇺** and **UK🇬🇧**, in order; I might travel to more countries for education in the future.☺️
   - I speak __CHIN *请多多关照*__ and __EN *nice to meet you*__, and some __JPNS *よろしくお願いします*__, and __KORN *잘 부탁드립니다*__.
-  - I enjoy novels, tech books, dramas and jogging for entertainment.
+  - I enjoy reading novels and tech books, dramas and theatres, and jogging for entertainment.
   
 
 ### Tech stack
