@@ -1,7 +1,7 @@
 ### About Qianhui
 
 I graduated from the Australian National University with a [Bachelor](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours) in Advanced Computing.<br>
-I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University of Cambridge, studying systems, architecture and security.
+I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at University of Cambridge, studying computer systems, security and architecture.
 
 - 🔭 I’m currently working on *cryptographic protocols*, *secure software*.
 - 🌱 I’m currently learning *runtime security*.
