@@ -1,10 +1,10 @@
 ### About Qianhui
 
-I graduated from the Australian National University with a [Bachelor](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours) in Advanced Computing.<br>
-I am a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student at the University of Cambridge, studying computer systems, security and architecture.
+I am a [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/cscspdpcs) student at the University of Cambridge, researching hardware-assisted memory safety, in particular associated with the [CTSRD-CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/) project. My general focus area is computer systems, security, and architecture.
+Previously, I completed a [MPhil](https://www.cst.cam.ac.uk/admissions/acs) at Cambridge and a [Bachelor](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours) in Advanced Computing at the Australian National University. <br>
 
-- 🔭 I’m currently working on *cryptographic protocols*, *secure software*.
-- 🌱 I’m currently learning *runtime security*.
+- 🔭 I’m currently working on *memory tagging*, *tagged architecture*, *cryptographic protocols*.
+- 🌱 I’m currently learning *secure allocators*.
 - 💬 I strive for the best in anything I do.
 - ⚡ Fun facts:
   - I went to school in **CN🇨🇳**, **SG🇸🇬**, **AU🇦🇺** and **UK🇬🇧**, in order; I might travel to more countries for education in the future.☺️
